@@ -1,5 +1,5 @@
 <h1>Cristiano Ronaldo</h1>
-<img src="https://opole.tvp.pl/84870077/wiecznie-mlody-cristiano-ronaldo-konczy-40-lat.jpg" alt="Cristiano Ronaldo" width="400">
+<img src="https://assets.goal.com/images/v3/bltd62352125e3416cd/5209bd6d5d506456762b50a936fbbd21e9ba7395.jpg?auto=webp&format=pjpg&width=3840&quality=60.jpg" alt="Cristiano Ronaldo" width="400">
 
 <p>Cristiano Ronaldo to jeden z najlepszych piłkarzy w historii futbolu, który przez swoją niesamowitą karierę zdobył liczne tytuły i wyróżnienia. Uznawany jest za jednego z najwybitniejszych sportowców wszech czasów, znany ze swojego talentu, pracy nad sobą i fenomenalnych osiągnięć na boisku.</p>
 
@@ -22,4 +22,5 @@
 </p>
 <p>
     <a href="https://www.fifa.com/worldcup/players/player/23954/">Oficjalna strona FIFA</a>
+
 </p>
